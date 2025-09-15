@@ -12,6 +12,17 @@ body{
     align-items: center;
     height: 100vh;
 }
+.head h1{
+   position: fixed;
+  top: 50px;         
+  left: 50%;              
+  transform: translateX(-50%);  
+  background: #333;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  z-index: 1000;
+}
 
 .calculator{
     background: #222;
