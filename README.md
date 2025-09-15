@@ -1,2 +1,10 @@
 # CODSOFT
 Web Development Internship Projects with CodSoft
+
+NAME: POOJA SREE KONDAKALLA
+Batch - AUGUST BATCH B46
+Tasks Done:
+  1. Landing Page
+  2. Calculator
+  3. Portfolio
+
