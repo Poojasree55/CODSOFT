@@ -42,7 +42,7 @@ nav .nav-links a {
   transition: 0.3s;
 }
 nav .nav-links a:hover {
-  color: #0077b6; /* Elegant blue accent */
+  color: #0077b6; 
 }
 .menu-toggle {
   display: none;
